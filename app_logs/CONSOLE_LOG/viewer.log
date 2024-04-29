@@ -1584,3 +1584,4 @@ ERROR   29 Apr 2024 18:10:28 org.owasp.csrfguard.action.Log - potential cross-si
 INFO    29 Apr 2024 18:10:32 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
 INFO    29 Apr 2024 18:11:21 org.joget.apps.app.web.ThreadCleaner - cleaned 336 values in ThreadLocals
 INFO    29 Apr 2024 18:11:21 bitronix.tm.BitronixTransactionManager - shutting down Bitronix Transaction Manager
+INFO    29 Apr 2024 18:15:23 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
